@@ -1,0 +1,41 @@
+
+ Button.but{
+     margin-left: 50px;
+     margin-right: 20px;
+ }
+ 
+ Button[type="submit"]:hover {
+    background: #d37f66;
+    margin-left: 100px;
+    margin-right: 20px;
+ }
+ Input[name="city"] {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: -5s;
+    background: lightsteelblue;
+    width: 185px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0 25px;
+    margin: 20px;
+    border-radius: 25px;
+ }
+ Input[name="country"] {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: -5s;
+    background: lightsteelblue;
+    width: 185px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding: 0 25px;
+    margin: 20px;
+    border-radius: 25px;
+ }

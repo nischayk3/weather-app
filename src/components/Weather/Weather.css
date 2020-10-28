@@ -1,0 +1,30 @@
+/* body {
+    margin: 0;
+    padding: 0;
+   background: rgb(11, 14, 14);
+   background-size: cover;
+   font-family: sans-serif;
+} */
+
+/* h1 {
+   margin: 0, 0 10px;
+   padding: 0;
+   color: rgb(150, 170, 165);
+   font-size: 24px;
+   text-decoration: underline;
+   text-decoration-color: whitesmoke;
+} */
+
+.weather {
+  
+   justify-content: center;
+   color: blue;
+   background-color:lightgreen;
+}
+
+
+
+
+/* .display-weather {
+   color: white;
+} */
